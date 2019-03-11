@@ -6,6 +6,9 @@
 
 * Repl.it Python 2.7 online compiler 
 
+## Issues
+  The last version updated still has some loop situations, which I am still working on. The code's logic is completed, with only those issues left to work on.
+
 ## Authors
 
 * **Luiza Pinheiro**  - [luhpi](https://github.com/luhpi)
